@@ -11,3 +11,14 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - matplotlib.pyplot
+  - seaborn
+  - cufflinks
+  - plotly.graph_objects
+  - chart_studio.plotly
+  - plotly.express 
+  - ipywidgets
+  - plotly.io 
+  - folium
+  - voila
+
